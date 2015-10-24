@@ -1,10 +1,9 @@
-
-  body {
+body {
     background: url(http://i.imgur.com/jNLPyFs.jpg) no-repeat;
     background-color: #A9ABBD;
   }
   
-  .broadcast-red {
+.broadcast-red {
     background: none repeat scroll 0% 0% #EC5C4D;
     color: #000;
     border: 2px solid #000;
@@ -13,7 +12,7 @@
     font-size: 10pt;
 }
   
-  .broadcast-blue {
+.broadcast-blue {
     background: none repeat scroll 0% 0% #8FA6B3;
     color: #000;
     border: 2px solid #000;
@@ -22,7 +21,7 @@
     font-size: 10pt;
 }
   
-  .broadcast-green {
+.broadcast-green {
     background: none repeat scroll 0% 0% #9BB38F;
     color: #000;
     border: 2px solid #000;
@@ -31,24 +30,24 @@
     font-size: 10pt;
 }
   
-  .pm-log {
+.pm-log {
     border: none;
     background: url("http://i.imgur.com/Q8vHT0Y.png") repeat scroll 0% 0% transparent;
     opacity: 0.9
   }
   
-  .maintabbarbottom {
+.maintabbarbottom {
     background: #C4B2D5;
     border-color:#000;
   }
   
-  .tabbar a.button.cur, .tabbar a.button.cur:hover {
+.tabbar a.button.cur, .tabbar a.button.cur:hover {
     background: #C4B2D5;
       border-color:#000;
     color: #FFF;
   }
   
-  .tabbar a.button {
+.tabbar a.button {
     background:#D6C4E8;
     color:#FFF;
     border-color:#000;
@@ -56,22 +55,22 @@
 
 .tabbar a.button:hover {
     background:#CEBADF;
-  border-color:#000;
+	border-color:#000;
 }
   
-  .header .logo {
+.header .logo {
     opacity: 0;
   }
   
-  .mainmenufooter a {
+.mainmenufooter a {
     color: #B8A5C9;
     text-shadow: 0px 0px 1px #474747, 0px 0px 1px #474747, 0px 0px 1px #474747;
 }
-  .mainmenufooter a:hover {
+.mainmenufooter a:hover {
     color: #D6C4E8;
 }
   
-  .menugroup .button {
+.menugroup .button {
     background: #6F9BB5;
         box-sizing: border-box;
     font-size: 10pt;
@@ -90,15 +89,15 @@
     border: 3px solid #474747;
 }
   
-  .menugroup button.big {
+.menugroup button.big {
     font-size: 12pt;
   }
   
-  .menugroup .button:hover {
+.menugroup .button:hover {
     background: #7CACC7;
   }
   
-  .pm-window h3 {
+.pm-window h3 {
     color:#474747;
     border: 3px solid #474747;
     background: #6F9BB5;
@@ -111,40 +110,40 @@
     cursor: pointer;
 }
   
-  .pm-window h3:hover {
+.pm-window h3:hover {
     color:#474747;
     border: 3px solid #474747;
   }
   
-  .pm-window.focused h3, .pm-window.focused h3:hover {
-background: #6F9BB5;
-color:#474747;
+.pm-window.focused h3, .pm-window.focused h3:hover {
+	background: #6F9BB5;
+	color:#474747;
     border: 3px solid #474747;
 }
   
-  .pm-window h3 small {
+.pm-window h3 small {
     color:#C4B2D5;
   }
   
-  .closebutton, .minimizebutton {
+.closebutton, .minimizebutton {
     color: #E4E4E4;
   }
   
-  .pm-log-add {
+.pm-log-add {
     border: none;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
     background: #474747;
 }
   
-  .popupmenu h3 {
+.popupmenu h3 {
     margin: 5px 0px 0px -2px;
     padding: 1px 0px;
     font-size: 8pt;
     color: #6F9BB5;
 }
   
-  .ps-popup {
+.ps-popup {
     position: absolute;
     top: auto;
     right: auto;
@@ -160,22 +159,22 @@ color:#474747;
     z-index: 20;
 }
   
-  .popupmenu button:hover {
+.popupmenu button:hover {
     height: 17px;
     background: #B8A5C9;
 }
   
-  .popupmenu button.sel:hover {
+.popupmenu button.sel:hover {
     padding: 0px 3px;
     border: 1px solid #000;
     background: #B8A5C9;
 }
   
-  .message-pm {
+.message-pm {
     color: #B8A5C9;
 }
   
-  .select {
+.select {
     border: 3px solid #474747;
     color:#474747;
     background: #6F9BB5;
@@ -183,42 +182,42 @@ color:#474747;
     box-shadow: 0px 1px 0px #D2D2D2 inset;
   }
   
-  .select:hover {
+.select:hover {
     border: 3px solid #474747;
     background: #7CACC7;
     color:#474747;
     box-shadow: 0px 1px 0px #D2D2D2 inset;
   }
   
-  .menugroup {
+.menugroup {
     background:rgba(0, 0, 0, 0);
   }
   
-  .battleform label {
- background: url("http://i.imgur.com/yFWeHx0.png") no-repeat scroll left center transparent !important;
+.battleform label {
+  background: url("http://i.imgur.com/yFWeHx0.png") no-repeat scroll left center transparent !important;
   padding: 4px;
 	opacity:0.9;
 }
   
-  .tournament-title {
+.tournament-title {
     background: #B8A5C9;
     color:#FFF;
   }
   
-  a {
+a {
     color: #AD8BCA;
   }
   
-  a:hover {
+a:hover {
     color: #9962CA;
   }
 
   
-  .tournament-status, .tournament-toggle {
+.tournament-status, .tournament-toggle {
     color: black;
 }
   
-  .roomlist a.ilink {
+.roomlist a.ilink {
     display: block;
     margin: 2px 7px 4px;
     padding: 1px 4px 2px;
@@ -235,44 +234,44 @@ color:#474747;
     white-space: nowrap;
 }
   
-  .ps-room.ps-room-light.scrollable {
+.ps-room.ps-room-light.scrollable {
     background:url(http://i.imgur.com/Q8vHT0Y.png);
 
         color:#474747;
 }
   
-  .tournament-bracket {
+.tournament-bracket {
     background:url(http://i.imgur.com/Q8vHT0Y.png);
   }
   
-  .tournament-tools {
+.tournament-tools {
     padding: 10px;
     background:url(http://i.imgur.com/Q8vHT0Y.png);
     border-top: 1px solid #aaa;
 }
   
-  a.ilink {
+a.ilink {
     text-decoration: none;
     color: #6F9BB5;
 }
   
-  .setchart-nickname {
+.setchart-nickname {
     background: #B8A5C9;
   }
   
-  .setdetails, .setstats, .setstats:hover, .setdetails:hover {
+.setdetails, .setstats, .setstats:hover, .setdetails:hover {
     background:url(http://i.imgur.com/Q8vHT0Y.png);
   }
   
-  .ps-room .battle-log {
+.ps-room .battle-log {
     background:url(http://i.imgur.com/Q8vHT0Y.png);
   }
   
-  .ps-room.ps-room-opaque {
+.ps-room.ps-room-opaque {
     background:url(http://i.imgur.com/Q8vHT0Y.png);
   }
   
-  .switchmenu button, .movemenu button {
+.switchmenu button, .movemenu button {
     position: relative;
     outline: medium none;
     cursor: pointer;
@@ -287,8 +286,6 @@ color:#474747;
     background: -moz-linear-gradient(center top , #F6F6F6, #E3E3E3) repeat scroll 0% 0% transparent;
 }
   
-  .header {
+.header {
     background:rgba(111, 155, 181, 0.5);
   }
-
-  
